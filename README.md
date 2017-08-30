@@ -1,3 +1,3 @@
-Sample readme text
-...
-Second Line
+# CCM
+
+Readme file for Convex Constrained Mesh (CCM) source code
