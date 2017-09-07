@@ -1,6 +1,6 @@
 # Convex Constrained Meshes
 
-This is the source code which implements the algorithm described in the article entitled Convex Constrained Meshes for superpixel segmentations of images.
+This is the source code which implements the algorithm described in the article entitled "Convex Constrained Meshes for superpixel segmentations of images".
 This is to be published in the SPIE Journal of Electronic Imaging -- Special Issue on Superpixels for Image Processing and Computer Vision.
 
 ## Compiling
