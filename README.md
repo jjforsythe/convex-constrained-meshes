@@ -20,4 +20,4 @@ Triangle https://www.cs.cmu.edu/~quake/triangle.html
 
 Line Segment Detector (LSD) http://www.ipol.im/pub/art/2012/gjmr-lsd/
 
-and the source code for these are including in this repository.
+and the source code for these are included in this repository.
